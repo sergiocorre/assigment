@@ -4,7 +4,7 @@
 -   [**Introduction**](intro/README.md)
 -   [**Adding a Signature Field to a PDF**](sign/README.md)
 -   [**Custom text stamps**](stamps/README.md)
--   [**Final Thoughts**](final/README.md)
+-   [**Final Thoughts**](soft-skills/README.md)
 
 
 
